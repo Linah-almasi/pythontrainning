@@ -1,3 +1,3 @@
 # pythontrainning
-my oython experience
+my python experience
 my journey in python programming
